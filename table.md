@@ -1,9 +1,6 @@
 [TOC]
-
 ## Results
-
 **CUB, mini-ImageNet and FC100 5-way Acc.**
-
 | Dataset setting     | SSL(ResNet-18) |  SSL(HRNet) |
 | --------     | :-----: | :----: |
 | CUB 5-way 1-shot   | 74.05 ± 0.83%  | 76.07 ± 0.82% |
